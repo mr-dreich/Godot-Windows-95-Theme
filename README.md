@@ -1,8 +1,8 @@
 # Godot-Windows-95-Theme
 
-A WIP windows 95 Godot 3.x theme for application and game development.
+A WIP windows 95 godot 3.x theme for application and game development.
 
-Currently broken when used as an Editor Theme.
+Currently broken when used as an editor theme.
 
 The screenshot was created using [ViolinBG's Godot Desktop Theme](https://github.com/violinbg/godot-desktop-themes)
 
